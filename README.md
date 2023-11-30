@@ -1,3 +1,4 @@
 # provaionic
 
-Install ionic:    npm install -g @ionic/cli
+- Install ionic:    npm install -g @ionic/cli
+- Execute: ionic serve
